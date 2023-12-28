@@ -1,1 +1,1 @@
-Este repositorio guardará os arquivos práticos do curso de bootstrap
+Este projeto é um modelo bem simples de um site para empresas.
